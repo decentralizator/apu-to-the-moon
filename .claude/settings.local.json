@@ -14,7 +14,12 @@
       "Bash(powershell -Command \"Get-Content ''C:\\\\Users\\\\sazib\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\E--claude-game\\\\tasks\\\\bbb9dea.output''\")",
       "Bash(npm run build:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(git branch:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)"
     ]
   }
 }
