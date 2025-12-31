@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(sc:brainstorm)",
+      "mcp__sequential-thinking__sequentialthinking",
+      "WebFetch(domain:github.com)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs",
+      "Bash(npm install)",
+      "Bash(npm run dev:*)",
+      "Skill(sc:improve)",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)",
+      "Bash(powershell -Command \"Get-Content ''C:\\\\Users\\\\sazib\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\E--claude-game\\\\tasks\\\\bbb9dea.output''\")",
+      "Bash(npm run build:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

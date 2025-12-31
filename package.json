@@ -1,0 +1,27 @@
+{
+  "name": "apu-to-the-moon",
+  "version": "1.0.0",
+  "description": "A 2D platformer game featuring Apu on his mission to the Moon",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "game",
+    "phaser",
+    "platformer",
+    "crypto",
+    "meme"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}
